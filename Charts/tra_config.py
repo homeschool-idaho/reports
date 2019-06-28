@@ -72,7 +72,7 @@ darkgray  = 40
 #this change made in 2015
 legend1_text = "Percentile ratings of Homeschool Idaho students tested who had been home educated three years or more."
 legend2_text = "Percentile ratings of Homeschool Idaho students tested who had previously been institutionally educated, and who had been home educated two years or less."
-legend3_text = "Percentile rating of all Idaho public school students tested on 2001 ITBS/TAP (latest scores available)."
+legend3_text = "Percentile rating of all Idaho public school students tested on 2017 ITBS/TAP (latest scores available)."
 
 # Each of the scores can be one of "ICHE_2yr", "ICHE_1yr", or a list of 6 score
 # values. If one of the first two are used, data is pulled from the ICHE database.

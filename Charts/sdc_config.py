@@ -73,7 +73,7 @@ legend1_text = "HOME:  Percentile ratings of home educated students tested by "+
                "Homeschool Idaho treated as a single district "+\
                "on " + str(test_year) + " ITBS/ITED."
 legend2_text = "IDAHO:  Statewide percentile ratings of Idaho public school "+\
-               "students treated as a single district on 2001 ITBS/TAP (latest "+\
+               "students treated as a single district on 2017 ITBS/TAP (latest "+\
                "scores available)."
 legend3_text = "NATIONAL:  Nationwide percentile ratings of public school districts."
 

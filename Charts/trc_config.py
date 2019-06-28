@@ -55,7 +55,7 @@ darkgray  = 40
 legend1_text = "HOME:  Percentile ratings of home educated students tested by "+\
                "Homeschool Idaho on " + str(test_year) + " ITBS/ITED."
 legend2_text = "IDAHO:  Statewide percentile ratings of Idaho public school "+\
-               "students on 2001 ITBS/TAP (latest scores available)."
+               "students on 2017 ITBS/TAP (latest scores available)."
 legend3_text = "NATIONAL:  Nationwide percentile ratings of public school districts."
 
 
