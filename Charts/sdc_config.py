@@ -8,7 +8,6 @@ title      = "SCHOOL DISTRICT COMPARISON"
 
 test_year  = 2019
 
-#subtitle1  = "Comparison of Idaho Coalition of Home Educators"
 subtitle1  = "Comparison of Homeschool Idaho"
 subtitle2  = "State of Idaho School Districts, and National School Districts"
 subtitle3  = "Iowa Tests of Basic Skills & Iowa Tests of Educational Development"
@@ -164,7 +163,12 @@ scores3 = [50,50,50,50,50,50]
 # scores3 = [50,50,50,50,50]
 
 #2019
-scores1 = [73,86,75,72,61]
+#Composite
+#Vocabulary
+#Reading
+#Written Expression (Language)
+#Mathematics
+scores1 = [73,86,75,74,61]
 scores2 = [56,48,59,50,56]
 scores3 = [50,50,50,50,50]
 
