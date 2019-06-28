@@ -1,0 +1,18 @@
+mysql -u root -p 
+Enter password: seaquail
+
+create database test_db;
+
+show databases;
+
+use test_db;
+
+show tables;
+
+grant usage on *.* to HP_Administrator@localhost identified by 'hpadmin';
+
+grant create, select, update, insert, delete on test_db.* to 
+HP_Administrator@localhost;
+
+drop database test_db
+

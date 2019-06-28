@@ -1,0 +1,43 @@
+Region, Student Name, 2013, 2014, 2015, 2016, 2013, 2014, 2015, 2016, Grade, Street, City, State, Zip, Phone
+1, Rachel Denney, X, X, , , X, X, , X, 9, 298 JACHETTA RD, Priest River, ID, 83856, (208) 448-0452
+1, Kristian Jensen, , X, , X, X, X, , X, 9, 41161 HWY 200, Hope, ID, 83836, (208) 255-7944
+2, Justin Bradshaw, , , X, X, X, X, X, X, 9, 3194 S STATELINE RD, Post Falls, ID, 83854, (208) 262-1982
+2, Kate McEwan, , , X, X, X, X, X, X, 9, 17083 S BULL RUN RD, Cataldo, ID, 83810, (208) 682-4964
+3, Wesley Kirkland, X, X, X, X, X, X, X, X, 9, 2615 CASTLEFORD, Moscow, ID, 83843, (208) 301-1288
+4, Hannah Barnes, , , X, , , X, X, X, 9, 3988 BELL CT, Nampa, ID, 83686, (208) 442-9668
+4, Michael Boswell, , , , , , , , X, 10, 10157 W HARVESTER DR, Boise, ID, 83709, (208) 867-3015
+4, Julia Caven, , X, X, X, , X, X, X, 9, 5596 N DISCOVERY PL, Boise, ID, 83713, (208) 887-7803
+4, Ian Crump, , , , , , , , X, 9, 1501 MONTE VISTA DR, Caldwell, ID, 83605, (208) 794-7974
+4, Sage Earnest, , X, , , X, X, , X, 10, 702 VISTA TER, Nampa, ID, 83686, (208) 880-6007
+4, Lochlan Frederick, , X, , X, , X, , X, 10, 3340 E COLUMBIA, Meridian, ID, 83642, (208) 972-1929
+4, Knox Freedman, , , , X, , , , X, 9, 2100 W MOUNTAIN POINTE CT, Nampa, ID, 83651, (208) 463-2395
+4, Wyatt Gibson, , , , , , , , X, 11, 15845 GRANITE PEAK AVE, Nampa, ID, 83651, (208) 869-9614
+4, Ricky Hambleton, , , , , , , , X, 11, 8225 HWY 45, Nampa, ID, 83686, (208) 697-4424
+4, Charlotte Jones, , , , X, , , , X, 9, 2831 S BAY STAR WAY, Meridian, ID, 83642, (208) 893-5123
+4, Kayla Kranz, , , , , , X, , X, 10, 7284 TOP RIM WAY, Star, ID, 83669, (208) 921-0956
+4, Elliott Lochard, , X, X, X, X, X, X, X, 9, 907 W EIDER DR, Meridian, ID, 83642, (208) 887-9018
+4, Nathan MacQueen, , , X, , X, , X, X, 9, 20222 COLEBROOK AVE, Caldwell, ID, 83605, (208) 249-5934
+4, Joshua Monaghan, X, X, X, X, X, X, X, X, 9, 4581 E FAITH LN, Meridian, ID, 83642, (208) 362-8587
+4, Madison Price, , X, , , X, X, X, X, 9, 12531 W Kempshire Ct., Star, ID, 83669, (208) 631-7119
+4, Gabriel Wheeler, , , , , , X, , X, 9, 8020 DEARBORNE RD, Nampa, ID, 83686, (208) 466-5216
+5, Lillian Brandsma, X, X, X, , X, X, X, X, 9, 11940 HIDDEN VLY RIM, Boise, ID, 83709, (208) 283-0279
+5, Joshua Byers, , , , X, , , , X, 11, 1126 N CALEDONIA PL, Eagle, ID, 83616, (425) 301-0106
+5, Andrew Dykstra, , , X, X, , , X, X, 9, 4260 VENTURE CIR, Meridian, ID, 83646, (208) 378-4949
+5, Ian Ireland, X, X, X, , X, X, X, X, 9, 7425 Mustang Lane, Emmett, ID, 83617, (208) 761-8290
+5, Hannah Jenkins, X, , X, X, X, , X, X, 9, 5421 N STANLEY CREEK AVE, Meridian, ID, 83646, (208) 841-8410
+5, Avery Masiewicz, , , , X, , , , X, 10, 1805 DEW MIST, Nampa, ID, 83651, (208) 515-9272
+5, MaryKate Mathias, , , , , , , , X, 12, 11842 TIOGA ST, Boise, ID, 83709, (208) 362-9738
+5, Jensen Shambora, , , , X, , , , X, 9, 12551 W VIEW RIDGE DR, Boise, ID, 83709, (208) 957-1443
+5, Caleb Twait, , X, , , X, X, X, X, 9, 1200 N MCDERMOTT RD, Meridian, ID, 83642, (208) 884-2008
+9, Wesley Friedel, , , , , , , , X, 11, 1125 E INMAN RD, Inkom, ID, 83245, (208) 251-4040
+12, Jaci Finch, , , , X, , , , X, 9, 728 27TH ST, Lewiston, ID, 83501, (208) 743-5613
+12, Hannah Schwank, , , , , , , , X, 10, 922 1/2 LINDEN AVE, Lewiston, ID, 83501, (208) 743-4190
+14, Elbia Christensen, , , , , , X, X, X, 9, 802 W SALES YARD RD, Emmett, ID, 83617, (208) 365-1507
+14, Paige Wilson, X, , X, X, X, , X, X, 9, 988 N SENECA SPRINGS WAY, Star, ID, 83669, (208) 866-9485
+14, Amber Zagarella, , , , , , , , X, 9, 2200 N PLAZA RD, Emmett, ID, 83617, (208) 365-4237
+14, Heather Zagarella, , , , , , , , X, 11, 2200 N PLAZA RD, Emmett, ID, 83617, (208) 365-4237
+14, Holly Zagarella, , , , , , , , X, 12, 2200 N PLAZA RD, Emmett, ID, 83617, (208) 365-4237
+19, Chase Knott, , , , , , , , X, 9, PO Box 294, PARMA, ID, 83660, (208) 941-2160
+19, Joni Landes, , , , , , , , X, 9, 19857 TUCKER RD, Greenleaf, ID, 83626, (208) 459-0423
+19, Jenna Winters, , , , X, , , , X, 9, 322 LARKSPUR CT, Caldwell, ID, 83605, (208) 454-5569
+

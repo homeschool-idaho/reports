@@ -1,0 +1,5 @@
+update score_student_data as s
+LEFT JOIN student t on t.l_name = s.l_name and t.f_name = s.f_name
+LEFT JOIN member m on m.member_id = t.member_id
+set s.member_id = m.member_id
+where m.member_id is not null

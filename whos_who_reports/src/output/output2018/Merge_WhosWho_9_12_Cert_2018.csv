@@ -1,0 +1,52 @@
+Region, Student Name, 2015, 2016, 2017, 2018, 2015, 2016, 2017, 2018, Grade, Street, City, State, Zip, Phone
+1, Liam Hoerth, , , , , , X, , X, 9, 39869 HWY 200, Hope, ID, 83836, (208) 263-3937
+1, Sharnai Hogan, , , , X, , , , X, 10, PO BOX 1466, Priest River, ID, 83856, (208) 304-5098
+2, Dan David, , , , , , , , X, 11, PO BOX 184, Harrison, ID, 83833, (208) 640-0783
+2, Haydn McKee, , , , , , , , X, 10, 31366 N SIENNA LOOP, Athol, ID, 83801, (208) 699-2532
+3, Nathanael Isaac, , , , , , , , X, 11, 4090 HWY 8, Troy, ID, 83871, (208) 874-3063
+3, Rebecca Kirkland, X, X, X, X, X, X, X, X, 9, 2615 CASTLEFORD, Moscow, ID, 83843, (208) 301-1288
+3, Broderick Ownbey, , , , X, , , , X, 9, 801 LEITH ST, Moscow, ID, 83843, (253) 670-5093
+3, Israel Ownbey, , , , X, , , , X, 10, 801 LEITH ST, Moscow, ID, 83843, (253) 670-5093
+3, Hailey Walsh, , , , X, , , , X, 9, 1405 JOSEPH ST, Moscow, ID, 83843, (206) 557-2703
+3, Lily Walsh, , , , X, , , , X, 9, 1405 JOSEPH ST, Moscow, ID, 83843, (206) 557-2703
+4, Jonathan Benton, , , X, , X, , X, X, 9, 7325 SARATOGA DR, Nampa, ID, 83686, (208) 863-5137
+4, Joshua Davidson, , , , , , , , X, 10, 621 W BRIDGER AVE, Nampa, ID, 83651, (208) 899-5933
+4, Rachel Davidson, , , , X, , , , X, 10, 621 W BRIDGER AVE, Nampa, ID, 83651, (208) 899-5933
+4, Sarah Davidson, , X, , X, , X, , X, 10, 621 W BRIDGER AVE, Nampa, ID, 83651, (208) 899-5933
+4, Elizabeth Delie, , X, X, , X, X, X, X, 9, 2870 S GIVENS WAY, Meridian, ID, 83642, (208) 884-0137
+4, Ellie Earnest, , , , , , , , X, 10, 702 VISTA TER, Nampa, ID, 83686, (208) 880-6007
+4, Brooke Hamilton, , , , , , , , X, 10, 14452 KERBY CT, Caldwell, ID, 83607, (208) 371-4177
+4, Vincent Hinz, , , , , , , , X, 11, PO BOX 174, Melba, ID, 83641, (208) 495-2825
+4, Claire Imbrock, , , , , , , , X, 12, 7925 TOMMY LN, Nampa, ID, 83686, (208) 369-8591
+4, Kedrick Jones, , , , X, , X, , X, 9, 2831 S BAY STAR WAY, Meridian, ID, 83642, (208) 893-5123
+4, Kade Kleveland, , , , , X, , , X, 9, 8720 W MCMILLAN RD, Meridian, ID, 83646, (208) 891-8596
+4, Alexis Kranz, , , X, , X, X, X, X, 9, 2697 W WOLF RAPIDS DR, Meridian, ID, 83646, (208) 921-0956
+4, Shannon LaFramboise, , , , , , , , X, 11, 4730 N BRUXELLES DR, Boise, ID, 83704, (208) 860-3109
+4, Zachary Laird, , , , , , , , X, 9, 2494 W SAN REMO CT, Meridian, ID, 83646, (208) 841-0657
+4, Emily Morton, , , , , , , , X, 10, 12621 W BAND DR, Star, ID, 83669, (208) 971-5008
+4, Joel Weers, , , , , , , , X, 10, 8340 W WYNDHAM LN, Boise, ID, 83704, (208) 890-2102
+4, Griffon Willmorth, , , , , X, , X, X, 9, 2814 AGATE ST, Boise, ID, 83705, (208) 890-0835
+5, Amelia Bailey, X, X, X, X, X, X, X, X, 9, 2249 E CHEMISE DR, Meridian, ID, 83646, (208) 887-5673
+5, Willem Brandsma, , , , , X, X, X, X, 9, 5585 N Marcliffe Ave, Boise, ID, 83704, (208) 283-0279
+5, Hannah Brown, , , , , , , X, X, 9, 2096 W SELDOVIA ST, Kuna, ID, 83634, (208) 288-5447
+5, Anna Rose Byers, , X, , X, , X, , X, 10, 1126 N CALEDONIA PL, Eagle, ID, 83616, (425) 425-3010
+5, Taran Durrant, , , , X, , X, , X, 10, 455 E BAY OWL DR, Kuna, ID, 83634, (208) 859-3846
+5, Braden Farris, , , , , , , , X, 9, 11461 W MOUNTAIN IRIS ST, Star, ID, 83669, (919) 363-4784
+5, Evan Farris, , , , , , , , X, 10, 11461 W MOUNTAIN IRIS ST, Star, ID, 83669, (919) 363-4784
+5, Wyatt Kircher, , , , , , , , X, 9, 4888 S UMATILLA AVE, Boise, ID, 83709, (208) 921-4233
+5, Emily Ostyn, , , , , , , , X, 10, 2704 N HOSE GULCH AVE, Kuna, ID, 83634, (208) 208-3186
+5, Rocky Rowedder, , , , X, , , , X, 10, 10070 W HACKAMORE DR, Boise, ID, 83709, (208) 658-1021
+5, Mattingly Vahsholtz, , , , , X, , X, X, 9, 12419 S ABBOT DOWNING WAY, Nampa, ID, 83686, (208) 249-5773
+6, Adrik Fisher, , , , X, , , , X, 10, 6225 SW ASHLEY CT, Mountain Home, ID, 83647, (605) 391-1239
+9, Gabriel Fehringer, , , , X, , , , X, 11, 2347 EAMES RD, American Falls, ID, 83211, (208) 226-2204
+9, Simeon Friedel, , , , , , , , X, 10, 1125 E INMAN RD, Inkom, ID, 83245, (208) 251-4040
+9, Ethan Krantz, X, , , X, X, X, X, X, 9, 910 SAMUEL ST, Pocatello, ID, 83204, (208) 235-7523
+11, Christian Breffle, , , , X, , , , X, 11, 4025 WOODHAVEN LN, Idaho falls, ID, 83404, (208) 360-9704
+13, Rose Sherrer, , , , , X, X, , X, 10, 635 COVE RD, Grangeville, ID, 83530, (208) 451-5007
+14, Ann Marie Ward, , , , , , , , X, 11, 1945 JACKSON AVE, Emmett, ID, 83617, (208) 365-8731
+14, Justin Winters, , , , X, , , , X, 9, PO BOX 519, Middleton, ID, 83644, (208) 861-3803
+16, Cadence Grey, , , , X, , , , X, 9, 180 SIXTY LN, Cascade, ID, 83611, (843) 271-2431
+16, Addie Wegener, X, X, X, X, X, X, X, X, 9, PO BOX 1072, Cascade, ID, 83611, (208) 315-3150
+19, Tabitha Landes, , , , X, , X, , X, 9, 19857 TUCKER RD, Greenleaf, ID, 83626, (208) 459-0423
+19, Liliana Staigle, , , , , , , X, X, 9, PO BOX 56, Parma, ID, 83660, (208) 921-3992
+

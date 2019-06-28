@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------------
+student_comp_scores_xls.txt
+
+Release Notes
+
+--------------------------------------------------------------------------------
+
+ Copyright (c) 2009 Idaho Coalition of Home Educators. All Rights Reserved.
+
+ USE OF A COPYRIGHT NOTICE IS PRECAUTIONARY ONLY AND DOES NOT IMPLY PUBLICATION
+ OR DISCLOSURE.
+
+ ALL BINARIES, SOURCE, CONFIGURATION FILES, EXAMPLES, AND DOCUMENTATION OF THIS
+ SOFTWARE PACKAGE IS PROPERTY OF IDAHO COALITION OF HOME EDUCATORS UNLESS 
+ OTHERWISE NOTED. THIS SOFTWARE CONTAINS CONFIDENTIAL INFORMATION AND TRADE 
+ SECRETS OF IDAHO COALITION OF HOME EDUCATORS. USE, DISCLOSURE, REPRODUCTION, OR
+ REVERSE ENGINEERING IS PROHIBITED WITHOUT THE PRIOR EXPRESS WRITTEN PERMISSION 
+ OF IDAHO COALITION OF HOME EDUCATORS.
+--------------------------------------------------------------------------------
+
+
+Version: 1.0.0 (2009-May-25)
+--------------------------------------------------------------------------------
+Changed: Initial release
+
+

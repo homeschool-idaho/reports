@@ -1,0 +1,63 @@
+Region, Student Name, 2009, 2010, 2011, 2012, 2009, 2010, 2011, 2012, Grade, Street, City, State, Zip, Phone
+1, Benjamin Cherry, , , , , , , , X, 10, PO BOX 1233, Sagle, ID, 83860, (208) 265-9449
+1, Aimee Hoerth, , , , , , , , X, 10, 39869 HWY 200, Hope, ID, 83836, (208) 263-3937
+1, Magdalene Meglich, , , , X, , , , X, 10, 320 GRANDVIEW AVE, Hope, ID, 83836, (208) 263-9422
+2, Tina Barbieri, X, , X, X, X, X, X, X, 9, 564 E PRAIRIE AVE, Dalton Gardens, ID, 83815, (208) 762-3737
+2, Lanae Dahlman, X, X, X, X, X, X, X, X, 9, 15854 N SPORTMAN PARK RD, Hayden Lake, ID, 83835, (208) 762-3775
+2, Justus Grammer, X, , , X, X, X, , X, 10, 3857 S BONNELL RD, Coeur d alene, ID, 83814, (208) 661-2171
+2, Lydia Heberer, , , , , , X, X, X, 9, 505 S Riverside Harbor Dr, Post Falls, ID, 83854, (208) 964-5228
+2, Davis Hill, , , , , X, X, , X, 9, 6952 N 15TH ST, Dalton Gardens, ID, 83815, (208) 762-1400
+2, Kalla Mort, , , , , , , , X, 10, E 6812 MAPLEWOOD AVE, Post Falls, ID, 83854, (208) 664-6025
+2, Cassaundra Soumas, , , , X, , , , X, 10, 3900 LONG MEADOW DR, Coeur d Alene, ID, 83815, (208) 755-1477
+2, Val Wold, , , X, , , , X, X, 9, PO BOX 341, Liberty Lake, WA, 99019, (208) 691-6964
+3, Helena Kirkland, , , X, X, , , X, X, 9, 2615 CASTLEFORD, Moscow, ID, 83843, (208) 301-1288
+3, Alison MacDonald, X, X, X, X, X, X, X, X, 9, 303 W CANYON ST, Colfax, WA, 99111, (509) 595-3620
+3, Asha Mitchem, , , , , , , X, X, 9, 255 ROSEMONT LN, Tensed, ID, 83870, (208) 651-6063
+3, Rachel Mitchem, , , , , , , X, X, 9, 255 ROSEMONT LN, Tensed, ID, 83870, (208) 651-6063
+4, Noelle Abe, X, X, X, X, X, X, X, X, 9, 5002C SOUTHSIDE BLVD, Nampa, ID, 83686, (208) 495-2395
+4, Trustin Adams, , , , , , , , X, 9, 25692 EMBER RD, Middleton, ID, 83644, (208) 585-9024
+4, Landen Brown, , , , , , , , X, 10, 24403 FALCON LN, Caldwell, ID, 83607, (208) 863-6332
+4, Tasi Goodell, , , X, X, X, , X, X, 9, 14899 SAND HOLLOW RD, Caldwell, ID, 83607, (208) 459-2196
+4, Drue Johnson, , X, X, X, X, X, X, X, 9, 16730 PLUM RD, Caldwell, ID, 83607, (208) 459-4107
+4, Caleb Kalousek, , , , , X, , , X, 9, 4207 S MONTGOMERY LN, Nampa, ID, 83686, (208) 442-2586
+4, Breanna Luckey, , , , X, , , , X, 9, 17811 POLARA WAY, Nampa, ID, 83687, (208) 484-5773
+4, Kara Luckey, , , , , , , , X, 11, 17811 POLARA WAY, Nampa, ID, 83687, (208) 484-5773
+4, Julie Monaghan, X, X, , X, X, X, , X, 9, 4581 E FAITH LN, Meridian, ID, 83642, (208) 362-8587
+4, Angela Renn, , , , , , , , X, 12, 3135 S KOKOMO DR, Nampa, ID, 83686, (208) 465-9865
+4, Karys Smith, , , , X, , , , X, 12, 216 N TURTLEDOVE WAY, Nampa, ID, 83651, (208) 724-0380
+4, Emily True, , , , X, , , , X, 11, 26 S HAPPY VALLEY RD, Nampa, ID, 83687, (208) 880-4044
+5, John Bergmann, , , , , X, , , X, 10, PO BOX 171261, Boise, ID, 83717, (208) 703-4595
+5, Emily Briggs, X, , X, X, X, , X, X, 9, 1770 W OAKLEY WAY, Kuna, ID, 83634, (208) 922-9018
+5, Malena Darden, , , X, X, , , X, X, 9, 3600 N COLE RD, Boise, ID, 83704, (208) 914-0441
+5, Lindsey Dykstra, X, , , X, X, , , X, 9, 4260 VENTURE CIR, Meridian, ID, 83646, (208) 378-4949
+5, Jacob Edenfield, X, , , X, X, , , X, 9, 172 FREEDOM RD, Nampa, ID, 83687, (208) 412-8741
+5, Quentin Frederick, , X, , X, , X, , X, 9, 3340 E Columbia, Meridian, ID, 83642, (208) 562-1489
+5, Francesca Ghiorso, , , , , , , , X, 11, 2749 S WHITE CASTLE, Eagle, ID, 83616, (208) 939-8856
+5, Robert Goes, , , , X, X, , , X, 10, 47 HORIZON DR, Boise, ID, 83702, (208) 577-8877
+5, Jonathan Henbest, X, X, X, , X, X, X, X, 9, 524 NW 15TH ST, Meridian, ID, 83642, (208) 888-7605
+5, Erin Kleveland, , , , , , , , X, 9, 8720 W MCMILLAN RD, Meridian, ID, 83646, (208) 286-9230
+5, Savannah Martin, , , , X, , , , X, 9, 10231 W FOX RIDGE DR, Boise, ID, 83709, (208) 880-2031
+5, Christopher Miller, , , , , X, X, X, X, 9, 11675 W DANIEL DR, Boise, ID, 83713, (208) 376-7865
+5, Jessica Murrell, , , , , X, , , X, 11, 10480 W HARNESS DR, Boise, ID, 83709, (208) 362-7860
+5, Katey Oswalt, X, X, X, X, X, X, X, X, 9, 1220 E LAKE CREEK ST, Meridian, ID, 83642, (208) 922-1941
+5, Andrea Prigge, , , , , , , , X, 11, 7015 Chinden BLVD, Meridian, ID, 83646, (208) 995-7581
+5, Elisabeth Tedesco, , , , , , , , X, 9, 1781 W. Lonesome Dove St., Meridian, ID, 83646, (208) 884-3794
+5, Andrew Van Vleck, , , , X, , , , X, 10, 12455 W HORSHAM DR, Boise, ID, 83709, (208) 991-9326
+6, JADE HOLLIDAY, , , , , , , , X, 12, 4105 NE ALEXANDER WAY, MOUNTAIN HOME, ID, 83647, (208) 587-9350
+6, Christopher Torrey, , , , , , X, , X, 10, 876 PARTRIDGE DR, Mountain Home, ID, 83647, (208) 284-3718
+6, autumn hastings, , , , , , , , X, 12, 1019 SW ISAAC LN, mountain home, ID, 83647, (208) 587-9302
+7, Jaxson Blair, , , , X, , , , X, 10, 873 MORNING SUN DR, Twin Falls, ID, 83301, (208) 734-9227
+7, Kathryn Lundgren, X, , X, X, X, , X, X, 9, 1228 RIVER RD, Buhl, ID, 83316, (208) 543-9092
+7, Elizabeth Papac, , , , , , , , X, 10, 2177 E 3840 N, Filer, ID, 83328, (208) 326-6674
+7, Torsten Pearson, , , , X, , , , X, 10, 902 C JUSTICE GRADE, Hagerman, ID, 83332, (208) 320-3579
+7, Lily Rasmussen, , , , X, , , , X, 10, 3697 N 2570 E, Twin Falls, ID, 83301, (208) 736-9473
+9, Austin Gasper, , X, , X, , X, X, X, 9, PO BOX 502, Inkom, ID, 83245, (208) 775-3204
+12, Nathaniel Iddings, , , , , X, , , X, 9, 1008 MARVIN LN, Clarkston, WA, 99403, (509) 758-6900
+14, Joelle Alexander, , , , , X, X, , X, 10, 4220 ROCKY POINT LN, Emmett, ID, 83617, (208) 365-7172
+14, Kayla Christensen, , X, , X, , X, , X, 9, 802 W SALES YARD RD, Emmett, ID, 83617, (208) 365-1507
+14, Trent Erickson, X, X, X, X, X, X, X, X, 9, 2109 HIGHLAND DR, Payette, ID, 83661, (208) 740-0394
+14, Gillian LaVergne, , , , X, , , , X, 9, 3157 E LOCUST ST, Emmett, ID, 83617, (208) 365-1205
+14, Josiah Roberts, , , , , , , , X, 12, 2660 S SUBSTATION RD, Emmett, ID, 83617, (208) 398-8191
+16, David Schott, , , , , , , , X, 9, PO BOX 542, Cascade, ID, 83611, (208) 315-0361
+17, Madison Anderson, , X, X, X, X, X, X, X, 9, 349 BLAINE ST, Arco, ID, 83213, (208) 527-7776
+

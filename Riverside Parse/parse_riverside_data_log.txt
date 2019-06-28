@@ -1,0 +1,1897 @@
+Entered main
+Python version:  2.7.10
+MySQLdb version: 1.2.4 final
+Please upgrade MySQLdb to version 1.2.2
+After arg parsing
+Test data file scoredata.txt exits
+Opened test data file scoredata.txt
+After reading Riverside data file: read 1226435 bytes --
+this might be different than the file size by the number of lines 
+due the way Python reads lines, depending on the newline characters.
+The test data file contains 471 students (lines)
+
+Line 1 has 1464 fields
+About to process Test Data line 1
+student = DENAE ALEXANDER
+After parsing Riverside data
+Line 2 has 1464 fields
+About to process Test Data line 2
+student = REAGAN ANDERSON
+After parsing Riverside data
+Line 3 has 1464 fields
+About to process Test Data line 3
+student = SOFIA BEAMS
+After parsing Riverside data
+Line 4 has 1464 fields
+About to process Test Data line 4
+student = MEGAN BERMAN
+After parsing Riverside data
+Line 5 has 1464 fields
+About to process Test Data line 5
+student = GARREN BOWERS
+After parsing Riverside data
+Line 6 has 1464 fields
+About to process Test Data line 6
+student = MARY BROER
+After parsing Riverside data
+Line 7 has 1464 fields
+About to process Test Data line 7
+student = JOEL BURRIS
+After parsing Riverside data
+Line 8 has 1464 fields
+About to process Test Data line 8
+student = ANNA BURTON
+After parsing Riverside data
+Line 9 has 1464 fields
+About to process Test Data line 9
+student = ALAN CHASE
+After parsing Riverside data
+Line 10 has 1464 fields
+About to process Test Data line 10
+student = WAYNE CLARK
+After parsing Riverside data
+Line 11 has 1464 fields
+About to process Test Data line 11
+student = GENEVA CRISMAN
+After parsing Riverside data
+Line 12 has 1464 fields
+About to process Test Data line 12
+student = CHASE DAVIS
+After parsing Riverside data
+Line 13 has 1464 fields
+About to process Test Data line 13
+student = RYAN DEMKOWICZ
+After parsing Riverside data
+Line 14 has 1464 fields
+About to process Test Data line 14
+student = ZION DLUGOLONSKI
+After parsing Riverside data
+Line 15 has 1464 fields
+About to process Test Data line 15
+student = WILLIAM DUGAN
+After parsing Riverside data
+Line 16 has 1464 fields
+About to process Test Data line 16
+student = MAGGIE FOSTER
+After parsing Riverside data
+Line 17 has 1464 fields
+About to process Test Data line 17
+student = BAILEE FULLER
+After parsing Riverside data
+Line 18 has 1464 fields
+About to process Test Data line 18
+student = SOPHIE GONZALEZ
+After parsing Riverside data
+Line 19 has 1464 fields
+About to process Test Data line 19
+student = KADE HANSEN
+After parsing Riverside data
+Line 20 has 1464 fields
+About to process Test Data line 20
+student = ABIGAIL HAYHURST
+After parsing Riverside data
+Line 21 has 1464 fields
+About to process Test Data line 21
+student = GRACE HYDER
+After parsing Riverside data
+Line 22 has 1464 fields
+About to process Test Data line 22
+student = DANIEL IRELAND
+After parsing Riverside data
+Line 23 has 1464 fields
+About to process Test Data line 23
+student = SAMUEL KIRCHER
+After parsing Riverside data
+Line 24 has 1464 fields
+About to process Test Data line 24
+student = WINSTON KRANZ
+After parsing Riverside data
+Line 25 has 1464 fields
+About to process Test Data line 25
+student = JOHN LASNICK
+After parsing Riverside data
+Line 26 has 1464 fields
+About to process Test Data line 26
+student = RENNA MADARIAGA
+After parsing Riverside data
+Line 27 has 1464 fields
+About to process Test Data line 27
+student = NATALIE MATHER
+After parsing Riverside data
+Line 28 has 1464 fields
+About to process Test Data line 28
+student = ARIANA MCNISH
+After parsing Riverside data
+Line 29 has 1464 fields
+About to process Test Data line 29
+student = PARKER MOGENSEN
+After parsing Riverside data
+Line 30 has 1464 fields
+About to process Test Data line 30
+student = GREGORY OPPLIGER
+After parsing Riverside data
+Line 31 has 1464 fields
+About to process Test Data line 31
+student = TAITYM RINELLA
+After parsing Riverside data
+Line 32 has 1464 fields
+About to process Test Data line 32
+student = JUSTUS ROSSER
+After parsing Riverside data
+Line 33 has 1464 fields
+About to process Test Data line 33
+student = JENNA STARNER
+After parsing Riverside data
+Line 34 has 1464 fields
+About to process Test Data line 34
+student = BETHANY STEINMEYER
+After parsing Riverside data
+Line 35 has 1464 fields
+About to process Test Data line 35
+student = TIMOTHY STILLMAN
+After parsing Riverside data
+Line 36 has 1464 fields
+About to process Test Data line 36
+student = JONAS AHRENS
+After parsing Riverside data
+Line 37 has 1464 fields
+About to process Test Data line 37
+student = NOAH AHRENS
+After parsing Riverside data
+Line 38 has 1464 fields
+About to process Test Data line 38
+student = MORGAN BARBER
+After parsing Riverside data
+Line 39 has 1464 fields
+About to process Test Data line 39
+student = EVA BEAMS
+After parsing Riverside data
+Line 40 has 1464 fields
+About to process Test Data line 40
+student = REAGAN BROOKS
+After parsing Riverside data
+Line 41 has 1464 fields
+About to process Test Data line 41
+student = TREVOR BROWN
+After parsing Riverside data
+Line 42 has 1464 fields
+About to process Test Data line 42
+student = CALEB CHURCH
+After parsing Riverside data
+Line 43 has 1464 fields
+About to process Test Data line 43
+student = ANTHONY CICANESE
+After parsing Riverside data
+Line 44 has 1464 fields
+About to process Test Data line 44
+student = LUKEN DANIELS
+After parsing Riverside data
+Line 45 has 1464 fields
+About to process Test Data line 45
+student = JAYDEN EHLER
+After parsing Riverside data
+Line 46 has 1464 fields
+About to process Test Data line 46
+student = JACEE FULLER
+After parsing Riverside data
+Line 47 has 1464 fields
+About to process Test Data line 47
+student = LILA GEDDE
+After parsing Riverside data
+Line 48 has 1464 fields
+About to process Test Data line 48
+student = DANIEL HARRIS
+After parsing Riverside data
+Line 49 has 1464 fields
+About to process Test Data line 49
+student = NATALIA HENDRICK
+After parsing Riverside data
+Line 50 has 1464 fields
+About to process Test Data line 50
+student = ROBERT HOLDEN
+After parsing Riverside data
+Line 51 has 1464 fields
+About to process Test Data line 51
+student = JACE HUNTER
+After parsing Riverside data
+Line 52 has 1464 fields
+About to process Test Data line 52
+student = HAVEN LANDES
+After parsing Riverside data
+Line 53 has 1464 fields
+About to process Test Data line 53
+student = LILLIAN LEDBETTER
+After parsing Riverside data
+Line 54 has 1464 fields
+About to process Test Data line 54
+student = GRACE MCCAMMON
+After parsing Riverside data
+Line 55 has 1464 fields
+About to process Test Data line 55
+student = PENELOPE MILLER
+After parsing Riverside data
+Line 56 has 1464 fields
+About to process Test Data line 56
+student = SARAH MONSEN
+After parsing Riverside data
+Line 57 has 1464 fields
+About to process Test Data line 57
+student = ELINORE PETERSON
+After parsing Riverside data
+Line 58 has 1464 fields
+About to process Test Data line 58
+student = JOHN POUNDS
+After parsing Riverside data
+Line 59 has 1464 fields
+About to process Test Data line 59
+student = NATHAN REININGER
+After parsing Riverside data
+Line 60 has 1464 fields
+About to process Test Data line 60
+student = BENAIAH ROSSER
+After parsing Riverside data
+Line 61 has 1464 fields
+About to process Test Data line 61
+student = ESTHER SCHAEFFER
+After parsing Riverside data
+Line 62 has 1464 fields
+About to process Test Data line 62
+student = AUDREY STEBBINS
+After parsing Riverside data
+Line 63 has 1464 fields
+About to process Test Data line 63
+student = ANNA STOBIE
+After parsing Riverside data
+Line 64 has 1464 fields
+About to process Test Data line 64
+student = NATALIE TIZEKKER
+After parsing Riverside data
+Line 65 has 1464 fields
+About to process Test Data line 65
+student = ADDISON VOSS
+After parsing Riverside data
+Line 66 has 1464 fields
+About to process Test Data line 66
+student = MADELINE WELSH
+After parsing Riverside data
+Line 67 has 1464 fields
+About to process Test Data line 67
+student = LYDIA WENDELL
+After parsing Riverside data
+Line 68 has 1464 fields
+About to process Test Data line 68
+student = JOSIAH WERNER
+After parsing Riverside data
+Line 69 has 1464 fields
+About to process Test Data line 69
+student = ZANE WINTERS
+After parsing Riverside data
+Line 70 has 1464 fields
+About to process Test Data line 70
+student = LILY YONGE
+After parsing Riverside data
+Line 71 has 1464 fields
+About to process Test Data line 71
+student = JOSHUA YOUNG
+After parsing Riverside data
+Line 72 has 1464 fields
+About to process Test Data line 72
+student = OLIVIA ANDERSON
+After parsing Riverside data
+Line 73 has 1464 fields
+About to process Test Data line 73
+student = MARIAH ARD
+After parsing Riverside data
+Line 74 has 1464 fields
+About to process Test Data line 74
+student = CALEB BENDER
+After parsing Riverside data
+Line 75 has 1464 fields
+About to process Test Data line 75
+student = ROSEMARY BOWYER
+After parsing Riverside data
+Line 76 has 1464 fields
+About to process Test Data line 76
+student = IAN BRETTON
+After parsing Riverside data
+Line 77 has 1464 fields
+About to process Test Data line 77
+student = BENJAMIN BROER
+After parsing Riverside data
+Line 78 has 1464 fields
+About to process Test Data line 78
+student = ASHTON BROWN
+After parsing Riverside data
+Line 79 has 1464 fields
+About to process Test Data line 79
+student = IAN BUCK
+After parsing Riverside data
+Line 80 has 1464 fields
+About to process Test Data line 80
+student = JACK CHRISTIAN
+After parsing Riverside data
+Line 81 has 1464 fields
+About to process Test Data line 81
+student = JONATHAN COMPHER
+After parsing Riverside data
+Line 82 has 1464 fields
+About to process Test Data line 82
+student = HUNTER CROWE
+After parsing Riverside data
+Line 83 has 1464 fields
+About to process Test Data line 83
+student = KENLEY DAVIS
+After parsing Riverside data
+Line 84 has 1464 fields
+About to process Test Data line 84
+student = SAWYER DEJONG
+After parsing Riverside data
+Line 85 has 1464 fields
+About to process Test Data line 85
+student = ANNA DEMKOWICZ
+After parsing Riverside data
+Line 86 has 1464 fields
+About to process Test Data line 86
+student = MATTHEW DESCALZO
+After parsing Riverside data
+Line 87 has 1464 fields
+About to process Test Data line 87
+student = STEPHEN DLUGOLONSKI
+After parsing Riverside data
+Line 88 has 1464 fields
+About to process Test Data line 88
+student = KONRAD FERCH
+After parsing Riverside data
+Line 89 has 1464 fields
+About to process Test Data line 89
+student = LYDIA FINKBEINER
+After parsing Riverside data
+Line 90 has 1464 fields
+About to process Test Data line 90
+student = EMMA FISK
+After parsing Riverside data
+Line 91 has 1464 fields
+About to process Test Data line 91
+student = CHERISH FORSYTH
+After parsing Riverside data
+Line 92 has 1464 fields
+About to process Test Data line 92
+student = KATE FOSTER
+After parsing Riverside data
+Line 93 has 1464 fields
+About to process Test Data line 93
+student = RUTH GALLOWAY
+After parsing Riverside data
+Line 94 has 1464 fields
+About to process Test Data line 94
+student = PARKER GONZALEZ
+After parsing Riverside data
+Line 95 has 1464 fields
+About to process Test Data line 95
+student = GRETCHEN GRUBBS
+After parsing Riverside data
+Line 96 has 1464 fields
+About to process Test Data line 96
+student = AMIE HARTMAN
+After parsing Riverside data
+Line 97 has 1464 fields
+About to process Test Data line 97
+student = DIRK HAYHURST
+After parsing Riverside data
+Line 98 has 1464 fields
+About to process Test Data line 98
+student = REBECCAH HOGABOAM
+After parsing Riverside data
+Line 99 has 1464 fields
+About to process Test Data line 99
+student = NYLA HOLTZEN
+After parsing Riverside data
+Line 100 has 1464 fields
+About to process Test Data line 100
+student = DAISHA JACOBY
+After parsing Riverside data
+Line 101 has 1464 fields
+About to process Test Data line 101
+student = EVIE JENSEN
+After parsing Riverside data
+Line 102 has 1464 fields
+About to process Test Data line 102
+student = MYA KIME
+After parsing Riverside data
+Line 103 has 1464 fields
+About to process Test Data line 103
+student = JOSHUA KNOPP
+After parsing Riverside data
+Line 104 has 1464 fields
+About to process Test Data line 104
+student = FAITH KRANZ
+After parsing Riverside data
+Line 105 has 1464 fields
+About to process Test Data line 105
+student = JAIDYNN LEE
+After parsing Riverside data
+Line 106 has 1464 fields
+About to process Test Data line 106
+student = KAYLEE LIERMAN
+After parsing Riverside data
+Line 107 has 1464 fields
+About to process Test Data line 107
+student = MABRY LUFF
+After parsing Riverside data
+Line 108 has 1464 fields
+About to process Test Data line 108
+student = KYLAH MADARIAGA
+After parsing Riverside data
+Line 109 has 1464 fields
+About to process Test Data line 109
+student = TUCKER MCNISH
+After parsing Riverside data
+Line 110 has 1464 fields
+About to process Test Data line 110
+student = ELIZA MORRIS
+After parsing Riverside data
+Line 111 has 1464 fields
+About to process Test Data line 111
+student = CLAIRE MORTON
+After parsing Riverside data
+Line 112 has 1464 fields
+About to process Test Data line 112
+student = JOSHUA NIXON
+After parsing Riverside data
+Line 113 has 1464 fields
+About to process Test Data line 113
+student = ETHAN OLIVER
+After parsing Riverside data
+Line 114 has 1464 fields
+About to process Test Data line 114
+student = IAN OPPLIGER
+After parsing Riverside data
+Line 115 has 1464 fields
+About to process Test Data line 115
+student = CALEIGH POWELL
+After parsing Riverside data
+Line 116 has 1464 fields
+About to process Test Data line 116
+student = OLIVIA REYES
+After parsing Riverside data
+Line 117 has 1464 fields
+About to process Test Data line 117
+student = MIGUEL SNELL
+After parsing Riverside data
+Line 118 has 1464 fields
+About to process Test Data line 118
+student = LYDIA VANDERSYS
+After parsing Riverside data
+Line 119 has 1464 fields
+About to process Test Data line 119
+student = LANDON VERST
+After parsing Riverside data
+Line 120 has 1464 fields
+About to process Test Data line 120
+student = MALACHI WALSH
+After parsing Riverside data
+Line 121 has 1464 fields
+About to process Test Data line 121
+student = MICHAEL WELSH
+After parsing Riverside data
+Line 122 has 1464 fields
+About to process Test Data line 122
+student = JOSEPHIN WENDELL
+After parsing Riverside data
+Line 123 has 1464 fields
+About to process Test Data line 123
+student = MACKENZI WEYANDT
+After parsing Riverside data
+Line 124 has 1464 fields
+About to process Test Data line 124
+student = ANDREW YOUNG
+After parsing Riverside data
+Line 125 has 1464 fields
+About to process Test Data line 125
+student = LEIF AHRENS
+After parsing Riverside data
+Line 126 has 1464 fields
+About to process Test Data line 126
+student = TOM ARD
+After parsing Riverside data
+Line 127 has 1464 fields
+About to process Test Data line 127
+student = RIANNA ATENCIO
+After parsing Riverside data
+Line 128 has 1464 fields
+About to process Test Data line 128
+student = NAYELI BANKHEAD
+After parsing Riverside data
+Line 129 has 1464 fields
+About to process Test Data line 129
+student = KATHRYN BARBER
+After parsing Riverside data
+Line 130 has 1464 fields
+About to process Test Data line 130
+student = ZOE BEAM
+After parsing Riverside data
+Line 131 has 1464 fields
+About to process Test Data line 131
+student = JACE BELISLE
+After parsing Riverside data
+Line 132 has 1464 fields
+About to process Test Data line 132
+student = COLBY BLISS
+After parsing Riverside data
+Line 133 has 1464 fields
+About to process Test Data line 133
+student = BROGAN BOLTHOUSE
+After parsing Riverside data
+Line 134 has 1464 fields
+About to process Test Data line 134
+student = DANIEI BOWYER
+After parsing Riverside data
+Line 135 has 1464 fields
+About to process Test Data line 135
+student = TRINITY BRANDSMA
+After parsing Riverside data
+Line 136 has 1464 fields
+About to process Test Data line 136
+student = EMILY BURRIS
+After parsing Riverside data
+Line 137 has 1464 fields
+About to process Test Data line 137
+student = CALISSA CHURCH
+After parsing Riverside data
+Line 138 has 1464 fields
+About to process Test Data line 138
+student = ALEX CICANESE
+After parsing Riverside data
+Line 139 has 1464 fields
+About to process Test Data line 139
+student = VICTORIA CONDER
+After parsing Riverside data
+Line 140 has 1464 fields
+About to process Test Data line 140
+student = ELIZA DUGAN
+After parsing Riverside data
+Line 141 has 1464 fields
+About to process Test Data line 141
+student = SILAS FREDERICK
+After parsing Riverside data
+Line 142 has 1464 fields
+About to process Test Data line 142
+student = GEORGIA GEDDE
+After parsing Riverside data
+Line 143 has 1464 fields
+About to process Test Data line 143
+student = HARRISON GEDDE
+After parsing Riverside data
+Line 144 has 1464 fields
+About to process Test Data line 144
+student = JOHANNA GRAHAM
+After parsing Riverside data
+Line 145 has 1464 fields
+About to process Test Data line 145
+student = ELLIE HARTMAN
+After parsing Riverside data
+Line 146 has 1464 fields
+About to process Test Data line 146
+student = AVA HORNADAY
+After parsing Riverside data
+Line 147 has 1464 fields
+About to process Test Data line 147
+student = EZRA HYDER
+After parsing Riverside data
+Line 148 has 1464 fields
+About to process Test Data line 148
+student = LYNDIE JACKSON
+After parsing Riverside data
+Line 149 has 1464 fields
+About to process Test Data line 149
+student = JUBILEE JENSEN
+After parsing Riverside data
+Line 150 has 1464 fields
+About to process Test Data line 150
+student = LEYTON JENSEN
+After parsing Riverside data
+Line 151 has 1464 fields
+About to process Test Data line 151
+student = MADISON JEWETT
+After parsing Riverside data
+Line 152 has 1464 fields
+About to process Test Data line 152
+student = LYDIA JOHNS
+After parsing Riverside data
+Line 153 has 1464 fields
+About to process Test Data line 153
+student = CONLAN KENYON
+After parsing Riverside data
+Line 154 has 1464 fields
+About to process Test Data line 154
+student = AVERY KETTERLING
+After parsing Riverside data
+Line 155 has 1464 fields
+About to process Test Data line 155
+student = ETHAN KIRCHER
+After parsing Riverside data
+Line 156 has 1464 fields
+About to process Test Data line 156
+student = BRENN KOCH
+After parsing Riverside data
+Line 157 has 1464 fields
+About to process Test Data line 157
+student = RILEY KRANTZ
+After parsing Riverside data
+Line 158 has 1464 fields
+About to process Test Data line 158
+student = DRUSEN LANDES
+After parsing Riverside data
+Line 159 has 1464 fields
+About to process Test Data line 159
+student = VICTORIA LATHROP
+After parsing Riverside data
+Line 160 has 1464 fields
+About to process Test Data line 160
+student = MAKENZIE LEDBETTER
+After parsing Riverside data
+Line 161 has 1464 fields
+About to process Test Data line 161
+student = JOLYNNE MALLORY
+After parsing Riverside data
+Line 162 has 1464 fields
+About to process Test Data line 162
+student = EMMA PARKER
+After parsing Riverside data
+Line 163 has 1464 fields
+About to process Test Data line 163
+student = RACHEL PON
+After parsing Riverside data
+Line 164 has 1464 fields
+About to process Test Data line 164
+student = MADDY ROWEDDER
+After parsing Riverside data
+Line 165 has 1464 fields
+About to process Test Data line 165
+student = HOPE RUST
+After parsing Riverside data
+Line 166 has 1464 fields
+About to process Test Data line 166
+student = DAMARIS SCHWARTZ
+After parsing Riverside data
+Line 167 has 1464 fields
+About to process Test Data line 167
+student = JESSE SCHWARTZ
+After parsing Riverside data
+Line 168 has 1464 fields
+About to process Test Data line 168
+student = WILLIAM SELTZER
+After parsing Riverside data
+Line 169 has 1464 fields
+About to process Test Data line 169
+student = NOAH STAIGLE
+After parsing Riverside data
+Line 170 has 1464 fields
+About to process Test Data line 170
+student = ALEXIS STARNER
+After parsing Riverside data
+Line 171 has 1464 fields
+About to process Test Data line 171
+student = MADDOX STARNS
+After parsing Riverside data
+Line 172 has 1464 fields
+About to process Test Data line 172
+student = HUNTER STEINER
+After parsing Riverside data
+Line 173 has 1464 fields
+About to process Test Data line 173
+student = LUKE STEINMEYER
+After parsing Riverside data
+Line 174 has 1464 fields
+About to process Test Data line 174
+student = JONATHAN STILLMAN
+After parsing Riverside data
+Line 175 has 1464 fields
+About to process Test Data line 175
+student = ADAELLE STOBIE
+After parsing Riverside data
+Line 176 has 1464 fields
+About to process Test Data line 176
+student = NOELLE TIZEKKER
+After parsing Riverside data
+Line 177 has 1464 fields
+About to process Test Data line 177
+student = JACKSON VOSS
+After parsing Riverside data
+Line 178 has 1464 fields
+About to process Test Data line 178
+student = MATTEA WINTERS
+After parsing Riverside data
+Line 179 has 1464 fields
+About to process Test Data line 179
+student = GARRETT YONGE
+After parsing Riverside data
+Line 180 has 1464 fields
+About to process Test Data line 180
+student = ARIANNA BAILEY
+After parsing Riverside data
+Line 181 has 1464 fields
+About to process Test Data line 181
+student = NATHAN BARNES
+After parsing Riverside data
+Line 182 has 1464 fields
+About to process Test Data line 182
+student = ELISE BRETTON
+After parsing Riverside data
+Line 183 has 1464 fields
+About to process Test Data line 183
+student = CALEB BROWN
+After parsing Riverside data
+Line 184 has 1464 fields
+About to process Test Data line 184
+student = ERIK CHRISTENSEN
+After parsing Riverside data
+Line 185 has 1464 fields
+About to process Test Data line 185
+student = KAYTE CHRISTENSEN
+After parsing Riverside data
+Line 186 has 1464 fields
+About to process Test Data line 186
+student = LIAM CHRISTIAN
+After parsing Riverside data
+Line 187 has 1464 fields
+About to process Test Data line 187
+student = ADRIELLE CIZMICH
+After parsing Riverside data
+Line 188 has 1464 fields
+About to process Test Data line 188
+student = AVIAH CRISMAN
+After parsing Riverside data
+Line 189 has 1464 fields
+About to process Test Data line 189
+student = ELIZABET DESCALZO
+After parsing Riverside data
+Line 190 has 1464 fields
+About to process Test Data line 190
+student = SPENCER DUENAS
+After parsing Riverside data
+Line 191 has 1464 fields
+About to process Test Data line 191
+student = ELLA FRANKAMP
+After parsing Riverside data
+Line 192 has 1464 fields
+About to process Test Data line 192
+student = MATTHEW GREY
+After parsing Riverside data
+Line 193 has 1464 fields
+About to process Test Data line 193
+student = JASMINE HANNULA
+After parsing Riverside data
+Line 194 has 1464 fields
+About to process Test Data line 194
+student = ANABELLE HAYHURST
+After parsing Riverside data
+Line 195 has 1464 fields
+About to process Test Data line 195
+student = KORA HOLTZEN
+After parsing Riverside data
+Line 196 has 1464 fields
+About to process Test Data line 196
+student = LUKE HOLTZEN
+After parsing Riverside data
+Line 197 has 1464 fields
+About to process Test Data line 197
+student = DALLON HOSKINS
+After parsing Riverside data
+Line 198 has 1464 fields
+About to process Test Data line 198
+student = CADE HUNTER
+After parsing Riverside data
+Line 199 has 1464 fields
+About to process Test Data line 199
+student = LIAM IRELAND
+After parsing Riverside data
+Line 200 has 1464 fields
+About to process Test Data line 200
+student = KAILEE JOLLIFFE
+After parsing Riverside data
+Line 201 has 1464 fields
+About to process Test Data line 201
+student = JONAH KIME
+After parsing Riverside data
+Line 202 has 1464 fields
+About to process Test Data line 202
+student = MARINA KISER
+After parsing Riverside data
+Line 203 has 1464 fields
+About to process Test Data line 203
+student = DALTON KRANZ
+After parsing Riverside data
+Line 204 has 1464 fields
+About to process Test Data line 204
+student = DONOVAN LACY
+After parsing Riverside data
+Line 205 has 1464 fields
+About to process Test Data line 205
+student = BODIE LIERMAN
+After parsing Riverside data
+Line 206 has 1464 fields
+About to process Test Data line 206
+student = ANNA ELL MARTIN
+After parsing Riverside data
+Line 207 has 1464 fields
+About to process Test Data line 207
+student = ABBY MCEWAN
+After parsing Riverside data
+Line 208 has 1464 fields
+About to process Test Data line 208
+student = BLAKE MILLER
+After parsing Riverside data
+Line 209 has 1464 fields
+About to process Test Data line 209
+student = AMELIA MORELAND
+After parsing Riverside data
+Line 210 has 1464 fields
+About to process Test Data line 210
+student = PAUL MORRIS
+After parsing Riverside data
+Line 211 has 1464 fields
+About to process Test Data line 211
+student = PAIGE MORTON
+After parsing Riverside data
+Line 212 has 1464 fields
+About to process Test Data line 212
+student = ELIJAH NIXON
+After parsing Riverside data
+Line 213 has 1464 fields
+About to process Test Data line 213
+student = ELISABET OBERST
+After parsing Riverside data
+Line 214 has 1464 fields
+About to process Test Data line 214
+student = CADENCE ORR
+After parsing Riverside data
+Line 215 has 1464 fields
+About to process Test Data line 215
+student = ELIAS PIERSON
+After parsing Riverside data
+Line 216 has 1464 fields
+About to process Test Data line 216
+student = NATELLY PIERSON
+After parsing Riverside data
+Line 217 has 1464 fields
+About to process Test Data line 217
+student = JOEL POSSINGER
+After parsing Riverside data
+Line 218 has 1464 fields
+About to process Test Data line 218
+student = ISABELLE QUAADE
+After parsing Riverside data
+Line 219 has 1464 fields
+About to process Test Data line 219
+student = EMMA SCHNEIDER
+After parsing Riverside data
+Line 220 has 1464 fields
+About to process Test Data line 220
+student = HANNAH SCHOTT
+After parsing Riverside data
+Line 221 has 1464 fields
+About to process Test Data line 221
+student = PHOEBE SEIBEL
+After parsing Riverside data
+Line 222 has 1464 fields
+About to process Test Data line 222
+student = AVA SELTZER
+After parsing Riverside data
+Line 223 has 1464 fields
+About to process Test Data line 223
+student = CHASE SELTZER
+After parsing Riverside data
+Line 224 has 1464 fields
+About to process Test Data line 224
+student = JEREMY SELTZER
+After parsing Riverside data
+Line 225 has 1464 fields
+About to process Test Data line 225
+student = NATHAN SESCILLA
+After parsing Riverside data
+Line 226 has 1464 fields
+About to process Test Data line 226
+student = DANIEL SIMILI
+After parsing Riverside data
+Line 227 has 1464 fields
+About to process Test Data line 227
+student = KYLE STROTTMANN
+After parsing Riverside data
+Line 228 has 1464 fields
+About to process Test Data line 228
+student = HAYLEY WEYANDT
+After parsing Riverside data
+Line 229 has 1464 fields
+About to process Test Data line 229
+student = SOPHIA WILLMORTH
+After parsing Riverside data
+Line 230 has 1464 fields
+About to process Test Data line 230
+student = ROBBY ACKERMAN
+After parsing Riverside data
+Line 231 has 1464 fields
+About to process Test Data line 231
+student = DARIN ALEXANDER
+After parsing Riverside data
+Line 232 has 1464 fields
+About to process Test Data line 232
+student = AURELIA ANDERSON
+After parsing Riverside data
+Line 233 has 1464 fields
+About to process Test Data line 233
+student = CHRISTIA ANDRADE
+After parsing Riverside data
+Line 234 has 1464 fields
+About to process Test Data line 234
+student = JOSHUA BACKER
+After parsing Riverside data
+Line 235 has 1464 fields
+About to process Test Data line 235
+student = FAITH BAKER
+After parsing Riverside data
+Line 236 has 1464 fields
+About to process Test Data line 236
+student = HOLDEN BARBER
+After parsing Riverside data
+Line 237 has 1464 fields
+About to process Test Data line 237
+student = VICTORIA BELISLE
+After parsing Riverside data
+Line 238 has 1464 fields
+About to process Test Data line 238
+student = EMILY BERMAN
+After parsing Riverside data
+Line 239 has 1464 fields
+About to process Test Data line 239
+student = KEEGAN BOLTHOUSE
+After parsing Riverside data
+Line 240 has 1464 fields
+About to process Test Data line 240
+student = KALYSSA BOSWELL
+After parsing Riverside data
+Line 241 has 1464 fields
+About to process Test Data line 241
+student = DANIEL BRANAGAN
+After parsing Riverside data
+Line 242 has 1464 fields
+About to process Test Data line 242
+student = EMMETT BROOKS
+After parsing Riverside data
+Line 243 has 1464 fields
+About to process Test Data line 243
+student = KOBE BURRIS
+After parsing Riverside data
+Line 244 has 1464 fields
+About to process Test Data line 244
+student = CONNOR CICANESE
+After parsing Riverside data
+Line 245 has 1464 fields
+About to process Test Data line 245
+student = AARON DAVID
+After parsing Riverside data
+Line 246 has 1464 fields
+About to process Test Data line 246
+student = VIVIAN DUGAN
+After parsing Riverside data
+Line 247 has 1464 fields
+About to process Test Data line 247
+student = HANNAH ENZMINGER
+After parsing Riverside data
+Line 248 has 1464 fields
+About to process Test Data line 248
+student = ALEA FADDIS
+After parsing Riverside data
+Line 249 has 1464 fields
+About to process Test Data line 249
+student = LUKAS FERCH
+After parsing Riverside data
+Line 250 has 1464 fields
+About to process Test Data line 250
+student = JANTZEN FISHER
+After parsing Riverside data
+Line 251 has 1464 fields
+About to process Test Data line 251
+student = CADENCE FORSYTH
+After parsing Riverside data
+Line 252 has 1464 fields
+About to process Test Data line 252
+student = RILEY GERTNER
+After parsing Riverside data
+Line 253 has 1464 fields
+About to process Test Data line 253
+student = HUDSON GLASS
+After parsing Riverside data
+Line 254 has 1464 fields
+About to process Test Data line 254
+student = CALEB GOECKNER
+After parsing Riverside data
+Line 255 has 1464 fields
+About to process Test Data line 255
+student = ALEX GUNTER
+After parsing Riverside data
+Line 256 has 1464 fields
+About to process Test Data line 256
+student = HANNAH HABERKORN
+After parsing Riverside data
+Line 257 has 1464 fields
+About to process Test Data line 257
+student = PHILIP HARRIS
+After parsing Riverside data
+Line 258 has 1464 fields
+About to process Test Data line 258
+student = ELISE HOGABOAM
+After parsing Riverside data
+Line 259 has 1464 fields
+About to process Test Data line 259
+student = HANNAH HOUSER
+After parsing Riverside data
+Line 260 has 1464 fields
+About to process Test Data line 260
+student = ISABELLA IRELAND
+After parsing Riverside data
+Line 261 has 1464 fields
+About to process Test Data line 261
+student = MARY ISAAC
+After parsing Riverside data
+Line 262 has 1464 fields
+About to process Test Data line 262
+student = ASHER JACOBY
+After parsing Riverside data
+Line 263 has 1464 fields
+About to process Test Data line 263
+student = JOSIAH KALOUSEK
+After parsing Riverside data
+Line 264 has 1464 fields
+About to process Test Data line 264
+student = GABRIEL KENYON
+After parsing Riverside data
+Line 265 has 1464 fields
+About to process Test Data line 265
+student = RILEY KETTERLING
+After parsing Riverside data
+Line 266 has 1464 fields
+About to process Test Data line 266
+student = MARK KOLLMANN
+After parsing Riverside data
+Line 267 has 1464 fields
+About to process Test Data line 267
+student = ALEXANDE LACY
+After parsing Riverside data
+Line 268 has 1464 fields
+About to process Test Data line 268
+student = CODY LAIRD
+After parsing Riverside data
+Line 269 has 1464 fields
+About to process Test Data line 269
+student = RACHEL LASNICK
+After parsing Riverside data
+Line 270 has 1464 fields
+About to process Test Data line 270
+student = JESSICA MALLORY
+After parsing Riverside data
+Line 271 has 1464 fields
+About to process Test Data line 271
+student = WESTON MCNISH
+After parsing Riverside data
+Line 272 has 1464 fields
+About to process Test Data line 272
+student = TEAGAN MILLER
+After parsing Riverside data
+Line 273 has 1464 fields
+About to process Test Data line 273
+student = ROWAN PARKINSON
+After parsing Riverside data
+Line 274 has 1464 fields
+About to process Test Data line 274
+student = HARMONY PERRY
+After parsing Riverside data
+Line 275 has 1464 fields
+About to process Test Data line 275
+student = ASHTON RINEHART
+After parsing Riverside data
+Line 276 has 1464 fields
+About to process Test Data line 276
+student = JONATHAN ROTHFUSZ
+After parsing Riverside data
+Line 277 has 1464 fields
+About to process Test Data line 277
+student = MARK RUST
+After parsing Riverside data
+Line 278 has 1464 fields
+About to process Test Data line 278
+student = MATEA SARTON
+After parsing Riverside data
+Line 279 has 1464 fields
+About to process Test Data line 279
+student = KADEN SCHLUETER
+After parsing Riverside data
+Line 280 has 1464 fields
+About to process Test Data line 280
+student = RACHEL SESCILLA
+After parsing Riverside data
+Line 281 has 1464 fields
+About to process Test Data line 281
+student = BRENNA SLAGLE
+After parsing Riverside data
+Line 282 has 1464 fields
+About to process Test Data line 282
+student = ABIGAIL TABLADILLO
+After parsing Riverside data
+Line 283 has 1464 fields
+About to process Test Data line 283
+student = JOSEPH TIZEKKER
+After parsing Riverside data
+Line 284 has 1464 fields
+About to process Test Data line 284
+student = ABIGAIL VERST
+After parsing Riverside data
+Line 285 has 1464 fields
+About to process Test Data line 285
+student = SEAN WEERS
+After parsing Riverside data
+Line 286 has 1464 fields
+About to process Test Data line 286
+student = ANORA WILSON
+After parsing Riverside data
+Line 287 has 1464 fields
+About to process Test Data line 287
+student = AIDAN WINTERS
+After parsing Riverside data
+Line 288 has 1464 fields
+About to process Test Data line 288
+student = ENOCH YOUNG
+After parsing Riverside data
+Line 289 has 1464 fields
+About to process Test Data line 289
+student = ELIJAH ZELLER
+After parsing Riverside data
+Line 290 has 1464 fields
+About to process Test Data line 290
+student = AIDAN ACTON
+After parsing Riverside data
+Line 291 has 1464 fields
+About to process Test Data line 291
+student = LILIANE ANDERSON
+After parsing Riverside data
+Line 292 has 1464 fields
+About to process Test Data line 292
+student = AMELIA BAILEY
+After parsing Riverside data
+Line 293 has 1464 fields
+About to process Test Data line 293
+student = NOEL BASEY
+After parsing Riverside data
+Line 294 has 1464 fields
+About to process Test Data line 294
+student = JONATHAN BENTON
+After parsing Riverside data
+Line 295 has 1464 fields
+About to process Test Data line 295
+student = SARAH BIZEAU
+After parsing Riverside data
+Line 296 has 1464 fields
+About to process Test Data line 296
+student = JONATHAN BLISS
+After parsing Riverside data
+Line 297 has 1464 fields
+About to process Test Data line 297
+student = WILLEM BRANDSMA
+After parsing Riverside data
+Line 298 has 1464 fields
+About to process Test Data line 298
+student = HANNAH BROWN
+After parsing Riverside data
+Line 299 has 1464 fields
+About to process Test Data line 299
+student = TYLER BURTON
+After parsing Riverside data
+Line 300 has 1464 fields
+About to process Test Data line 300
+student = JAYDEN CHILDRESS
+After parsing Riverside data
+Line 301 has 1464 fields
+About to process Test Data line 301
+student = MAKENNA CHILDRESS
+After parsing Riverside data
+Line 302 has 1464 fields
+About to process Test Data line 302
+student = EMMA CHRISTENSEN
+After parsing Riverside data
+Line 303 has 1464 fields
+About to process Test Data line 303
+student = JEREMY CRUMP
+After parsing Riverside data
+Line 304 has 1464 fields
+About to process Test Data line 304
+student = ELIZABET DELIE
+After parsing Riverside data
+Line 305 has 1464 fields
+About to process Test Data line 305
+student = KAITLYN DRURY
+After parsing Riverside data
+Line 306 has 1464 fields
+About to process Test Data line 306
+student = PRESTON DUENAS
+After parsing Riverside data
+Line 307 has 1464 fields
+About to process Test Data line 307
+student = CAMDEN DURRANT
+After parsing Riverside data
+Line 308 has 1464 fields
+About to process Test Data line 308
+student = BRADEN FARRIS
+After parsing Riverside data
+Line 309 has 1464 fields
+About to process Test Data line 309
+student = MAKENAH FRANKAMP
+After parsing Riverside data
+Line 310 has 1464 fields
+About to process Test Data line 310
+student = DOMENIC GHIORSO
+After parsing Riverside data
+Line 311 has 1464 fields
+About to process Test Data line 311
+student = ALEXANDR GOWER
+After parsing Riverside data
+Line 312 has 1464 fields
+About to process Test Data line 312
+student = LOGAN GRAHAM
+After parsing Riverside data
+Line 313 has 1464 fields
+About to process Test Data line 313
+student = CADENCE GREY
+After parsing Riverside data
+Line 314 has 1464 fields
+About to process Test Data line 314
+student = LILLY HANNULA
+After parsing Riverside data
+Line 315 has 1464 fields
+About to process Test Data line 315
+student = LIAM HOERTH
+After parsing Riverside data
+Line 316 has 1464 fields
+About to process Test Data line 316
+student = COLTON HOSKINS
+After parsing Riverside data
+Line 317 has 1464 fields
+About to process Test Data line 317
+student = TANNER JACKSON
+After parsing Riverside data
+Line 318 has 1464 fields
+About to process Test Data line 318
+student = ARDEN JACOBY
+After parsing Riverside data
+Line 319 has 1464 fields
+About to process Test Data line 319
+student = ELIZABET JOHNS
+After parsing Riverside data
+Line 320 has 1464 fields
+About to process Test Data line 320
+student = NATHANIE JOLLIFFE
+After parsing Riverside data
+Line 321 has 1464 fields
+About to process Test Data line 321
+student = KEDRICK JONES
+After parsing Riverside data
+Line 322 has 1464 fields
+About to process Test Data line 322
+student = SYDNEY KETTERLING
+After parsing Riverside data
+Line 323 has 1464 fields
+About to process Test Data line 323
+student = KAYLEE KIME
+After parsing Riverside data
+Line 324 has 1464 fields
+About to process Test Data line 324
+student = WYATT KIRCHER
+After parsing Riverside data
+Line 325 has 1464 fields
+About to process Test Data line 325
+student = REBECCA KIRKL AN D
+After parsing Riverside data
+Line 326 has 1464 fields
+About to process Test Data line 326
+student = KADE KLEVELAND
+After parsing Riverside data
+Line 327 has 1464 fields
+About to process Test Data line 327
+student = ETHAN KRANTZ
+After parsing Riverside data
+Line 328 has 1464 fields
+About to process Test Data line 328
+student = ALEXIS KRANZ
+After parsing Riverside data
+Line 329 has 1464 fields
+About to process Test Data line 329
+student = ZACHARY LAJRD
+After parsing Riverside data
+Line 330 has 1464 fields
+About to process Test Data line 330
+student = TABITHA LANDES
+After parsing Riverside data
+Line 331 has 1464 fields
+About to process Test Data line 331
+student = ELIJAH MCNISH
+After parsing Riverside data
+Line 332 has 1464 fields
+About to process Test Data line 332
+student = THOMAS OLIVER
+After parsing Riverside data
+Line 333 has 1464 fields
+About to process Test Data line 333
+student = ZOE ORR
+After parsing Riverside data
+Line 334 has 1464 fields
+About to process Test Data line 334
+student = BRODERIC OWNBEY
+After parsing Riverside data
+Line 335 has 1464 fields
+About to process Test Data line 335
+student = SILAS PAUL
+After parsing Riverside data
+Line 336 has 1464 fields
+About to process Test Data line 336
+student = BRADY PERRY
+After parsing Riverside data
+Line 337 has 1464 fields
+About to process Test Data line 337
+student = CAITLYN POWELL
+After parsing Riverside data
+Line 338 has 1464 fields
+About to process Test Data line 338
+student = MERCY ROBERTS
+After parsing Riverside data
+Line 339 has 1464 fields
+About to process Test Data line 339
+student = ABIGAIL ROWEDDER
+After parsing Riverside data
+Line 340 has 1464 fields
+About to process Test Data line 340
+student = CALEB SCHOTT
+After parsing Riverside data
+Line 341 has 1464 fields
+About to process Test Data line 341
+student = OLLINE SMITH
+After parsing Riverside data
+Line 342 has 1464 fields
+About to process Test Data line 342
+student = WILLIAM SMITH
+After parsing Riverside data
+Line 343 has 1464 fields
+About to process Test Data line 343
+student = SAMANTHA SNYDERS
+After parsing Riverside data
+Line 344 has 1464 fields
+About to process Test Data line 344
+student = LILIANA STAIGLE
+After parsing Riverside data
+Line 345 has 1464 fields
+About to process Test Data line 345
+student = ELIAS STARNS
+After parsing Riverside data
+Line 346 has 1464 fields
+About to process Test Data line 346
+student = MATTINGL VAHSHOLTZ
+After parsing Riverside data
+Line 347 has 1464 fields
+About to process Test Data line 347
+student = KALEB VANDERSYS
+After parsing Riverside data
+Line 348 has 1464 fields
+About to process Test Data line 348
+student = CASSIDY VOSS
+After parsing Riverside data
+Line 349 has 1464 fields
+About to process Test Data line 349
+student = CHRISTA VOSS
+After parsing Riverside data
+Line 350 has 1464 fields
+About to process Test Data line 350
+student = HAILEY WALSH
+After parsing Riverside data
+Line 351 has 1464 fields
+About to process Test Data line 351
+student = LILY WALSH
+After parsing Riverside data
+Line 352 has 1464 fields
+About to process Test Data line 352
+student = ISAAC WARD
+After parsing Riverside data
+Line 353 has 1464 fields
+About to process Test Data line 353
+student = ADDIE WEGENER
+After parsing Riverside data
+Line 354 has 1464 fields
+About to process Test Data line 354
+student = GRIFFON WILLMORTH
+After parsing Riverside data
+Line 355 has 1464 fields
+About to process Test Data line 355
+student = JUSTIN WINTERS
+After parsing Riverside data
+Line 356 has 1464 fields
+About to process Test Data line 356
+student = AUTUMN ZAGARELLA
+After parsing Riverside data
+Line 357 has 1464 fields
+About to process Test Data line 357
+student = DAYLA ALEXANDER
+After parsing Riverside data
+Line 358 has 1464 fields
+About to process Test Data line 358
+student = JORDAN ANDERSON
+After parsing Riverside data
+Line 359 has 1464 fields
+About to process Test Data line 359
+student = JOSIAH BALES
+After parsing Riverside data
+Line 360 has 1464 fields
+About to process Test Data line 360
+student = RACHEL BIZEAU
+After parsing Riverside data
+Line 361 has 1464 fields
+About to process Test Data line 361
+student = ABIGAIL BOBINSKI
+After parsing Riverside data
+Line 362 has 1464 fields
+About to process Test Data line 362
+student = CALEB BROOKS
+After parsing Riverside data
+Line 363 has 1464 fields
+About to process Test Data line 363
+student = JOSIAH BROWN
+After parsing Riverside data
+Line 364 has 1464 fields
+About to process Test Data line 364
+student = ANNA ROS BYERS
+After parsing Riverside data
+Line 365 has 1464 fields
+About to process Test Data line 365
+student = DANIELA DARBY
+After parsing Riverside data
+Line 366 has 1464 fields
+About to process Test Data line 366
+student = JOSHUA DAVIDSON
+After parsing Riverside data
+Line 367 has 1464 fields
+About to process Test Data line 367
+student = RACHEL DAVIDSON
+After parsing Riverside data
+Line 368 has 1464 fields
+About to process Test Data line 368
+student = SARAH DAVIDSON
+After parsing Riverside data
+Line 369 has 1464 fields
+About to process Test Data line 369
+student = AARON DELIE
+After parsing Riverside data
+Line 370 has 1464 fields
+About to process Test Data line 370
+student = JOSHUA DILTS
+After parsing Riverside data
+Line 371 has 1464 fields
+About to process Test Data line 371
+student = TARAN DURRANT
+After parsing Riverside data
+Line 372 has 1464 fields
+About to process Test Data line 372
+student = ELIZABET DYKSTRA
+After parsing Riverside data
+Line 373 has 1464 fields
+About to process Test Data line 373
+student = ELLIE EARNEST
+After parsing Riverside data
+Line 374 has 1464 fields
+About to process Test Data line 374
+student = ESTHER ENZMINGER
+After parsing Riverside data
+Line 375 has 1464 fields
+About to process Test Data line 375
+student = EVAN FARRIS
+After parsing Riverside data
+Line 376 has 1464 fields
+About to process Test Data line 376
+student = SHANNON FISH
+After parsing Riverside data
+Line 377 has 1464 fields
+About to process Test Data line 377
+student = ADRIK FISHER
+After parsing Riverside data
+Line 378 has 1464 fields
+About to process Test Data line 378
+student = SIMEON FRIEDEL
+After parsing Riverside data
+Line 379 has 1464 fields
+About to process Test Data line 379
+student = KENDRA GERTNER
+After parsing Riverside data
+Line 380 has 1464 fields
+About to process Test Data line 380
+student = OSKAR GROBEY
+After parsing Riverside data
+Line 381 has 1464 fields
+About to process Test Data line 381
+student = BROOKE HAMILTON
+After parsing Riverside data
+Line 382 has 1464 fields
+About to process Test Data line 382
+student = JAMES HANGSTEFER
+After parsing Riverside data
+Line 383 has 1464 fields
+About to process Test Data line 383
+student = STEVEN HAR IS
+After parsing Riverside data
+Line 384 has 1464 fields
+About to process Test Data line 384
+student = JOSEPH HINZ
+After parsing Riverside data
+Line 385 has 1464 fields
+About to process Test Data line 385
+student = SHARNAI HOGAN
+After parsing Riverside data
+Line 386 has 1464 fields
+About to process Test Data line 386
+student = NAOMI HOLLAND
+After parsing Riverside data
+Line 387 has 1464 fields
+About to process Test Data line 387
+student = MICAH HOOPER
+After parsing Riverside data
+Line 388 has 1464 fields
+About to process Test Data line 388
+student = GABRIEL ISAAC
+After parsing Riverside data
+Line 389 has 1464 fields
+About to process Test Data line 389
+student = MARIA KINNE
+After parsing Riverside data
+Line 390 has 1464 fields
+About to process Test Data line 390
+student = CALEB KNOPP
+After parsing Riverside data
+Line 391 has 1464 fields
+About to process Test Data line 391
+student = DANA KOLLMANN
+After parsing Riverside data
+Line 392 has 1464 fields
+About to process Test Data line 392
+student = RILEY LIERMAN
+After parsing Riverside data
+Line 393 has 1464 fields
+About to process Test Data line 393
+student = MICHAEL MARTIN
+After parsing Riverside data
+Line 394 has 1464 fields
+About to process Test Data line 394
+student = HAYDN MCKEE
+After parsing Riverside data
+Line 395 has 1464 fields
+About to process Test Data line 395
+student = CURTIR MCNEW
+After parsing Riverside data
+Line 396 has 1464 fields
+About to process Test Data line 396
+student = MATTIE MORELAND
+After parsing Riverside data
+Line 397 has 1464 fields
+About to process Test Data line 397
+student = EMILY MORTON
+After parsing Riverside data
+Line 398 has 1464 fields
+About to process Test Data line 398
+student = VICTORIA NIXON
+After parsing Riverside data
+Line 399 has 1464 fields
+About to process Test Data line 399
+student = ETHAN OBERST
+After parsing Riverside data
+Line 400 has 1464 fields
+About to process Test Data line 400
+student = ISAAC OMAN
+After parsing Riverside data
+Line 401 has 1464 fields
+About to process Test Data line 401
+student = EMILY OSTYN
+After parsing Riverside data
+Line 402 has 1464 fields
+About to process Test Data line 402
+student = ISRAEL OWNBEY
+After parsing Riverside data
+Line 403 has 1464 fields
+About to process Test Data line 403
+student = GERIMIAH PENNELL
+After parsing Riverside data
+Line 404 has 1464 fields
+About to process Test Data line 404
+student = REBECCAH POSSINGER
+After parsing Riverside data
+Line 405 has 1464 fields
+About to process Test Data line 405
+student = LIBERTY ROBERTS
+After parsing Riverside data
+Line 406 has 1464 fields
+About to process Test Data line 406
+student = ROCKY ROWEDDER
+After parsing Riverside data
+Line 407 has 1464 fields
+About to process Test Data line 407
+student = CALVIN RUST
+After parsing Riverside data
+Line 408 has 1464 fields
+About to process Test Data line 408
+student = ROSE SHERRER
+After parsing Riverside data
+Line 409 has 1464 fields
+About to process Test Data line 409
+student = DAVID SIMILI
+After parsing Riverside data
+Line 410 has 1464 fields
+About to process Test Data line 410
+student = MICHAEL STRONG
+After parsing Riverside data
+Line 411 has 1464 fields
+About to process Test Data line 411
+student = BRISTON VAHSHOLTZ
+After parsing Riverside data
+Line 412 has 1464 fields
+About to process Test Data line 412
+student = PETER VRIELING
+After parsing Riverside data
+Line 413 has 1464 fields
+About to process Test Data line 413
+student = JOEL WEERS
+After parsing Riverside data
+Line 414 has 1464 fields
+About to process Test Data line 414
+student = KENNETH WINTERS
+After parsing Riverside data
+Line 415 has 1464 fields
+About to process Test Data line 415
+student = ASHLYN YOUNG
+After parsing Riverside data
+Line 416 has 1464 fields
+About to process Test Data line 416
+student = KRYSLIN BERMAN
+After parsing Riverside data
+Line 417 has 1464 fields
+About to process Test Data line 417
+student = LILLIAN BRANDSMA
+After parsing Riverside data
+Line 418 has 1464 fields
+About to process Test Data line 418
+student = CHRISTIA BREFFLE
+After parsing Riverside data
+Line 419 has 1464 fields
+About to process Test Data line 419
+student = CASSANDR BROWN
+After parsing Riverside data
+Line 420 has 1464 fields
+About to process Test Data line 420
+student = KINSEY CARLSON
+After parsing Riverside data
+Line 421 has 1464 fields
+About to process Test Data line 421
+student = ELBIA CHRISTENSEN
+After parsing Riverside data
+Line 422 has 1464 fields
+About to process Test Data line 422
+student = TORI CHURCH
+After parsing Riverside data
+Line 423 has 1464 fields
+About to process Test Data line 423
+student = ISAAC COMPHER
+After parsing Riverside data
+Line 424 has 1464 fields
+About to process Test Data line 424
+student = NATHANIE COOPER
+After parsing Riverside data
+Line 425 has 1464 fields
+About to process Test Data line 425
+student = DAN DAVID
+After parsing Riverside data
+Line 426 has 1464 fields
+About to process Test Data line 426
+student = CHELSEA DUENAS
+After parsing Riverside data
+Line 427 has 1464 fields
+About to process Test Data line 427
+student = MAKAYLE DURRANT
+After parsing Riverside data
+Line 428 has 1464 fields
+About to process Test Data line 428
+student = GABRIEL FEHRINGER
+After parsing Riverside data
+Line 429 has 1464 fields
+About to process Test Data line 429
+student = ESTHER GOODE
+After parsing Riverside data
+Line 430 has 1464 fields
+About to process Test Data line 430
+student = ELSA GUNTER
+After parsing Riverside data
+Line 431 has 1464 fields
+About to process Test Data line 431
+student = JONATHAN HANGSTEFER
+After parsing Riverside data
+Line 432 has 1464 fields
+About to process Test Data line 432
+student = THOMAS HARRIS
+After parsing Riverside data
+Line 433 has 1464 fields
+About to process Test Data line 433
+student = VINCENT HINZ
+After parsing Riverside data
+Line 434 has 1464 fields
+About to process Test Data line 434
+student = IAN IRELAND
+After parsing Riverside data
+Line 435 has 1464 fields
+About to process Test Data line 435
+student = NATHANAE ISAAC
+After parsing Riverside data
+Line 436 has 1464 fields
+About to process Test Data line 436
+student = COREY JOLLIFFE
+After parsing Riverside data
+Line 437 has 1464 fields
+About to process Test Data line 437
+student = CHARLOTT JONES
+After parsing Riverside data
+Line 438 has 1464 fields
+About to process Test Data line 438
+student = CHASE KNOTT
+After parsing Riverside data
+Line 439 has 1464 fields
+About to process Test Data line 439
+student = GARRETT KRANZ
+After parsing Riverside data
+Line 440 has 1464 fields
+About to process Test Data line 440
+student = SHANNON LAFRAMBOISE
+After parsing Riverside data
+Line 441 has 1464 fields
+About to process Test Data line 441
+student = JONI LANDES
+After parsing Riverside data
+Line 442 has 1464 fields
+About to process Test Data line 442
+student = KYLER LISCINSKI
+After parsing Riverside data
+Line 443 has 1464 fields
+About to process Test Data line 443
+student = ELLIOTT LOCHARD
+After parsing Riverside data
+Line 444 has 1464 fields
+About to process Test Data line 444
+student = KATE MCEWAN
+After parsing Riverside data
+Line 445 has 1464 fields
+About to process Test Data line 445
+student = STEPHEN MILLER
+After parsing Riverside data
+Line 446 has 1464 fields
+About to process Test Data line 446
+student = JOSHUA MONAGHAN
+After parsing Riverside data
+Line 447 has 1464 fields
+About to process Test Data line 447
+student = MAGDALEN PAUL
+After parsing Riverside data
+Line 448 has 1464 fields
+About to process Test Data line 448
+student = JOEL PRIGGE
+After parsing Riverside data
+Line 449 has 1464 fields
+About to process Test Data line 449
+student = CADEN RINEHART
+After parsing Riverside data
+Line 450 has 1464 fields
+About to process Test Data line 450
+student = ELISE SHINN
+After parsing Riverside data
+Line 451 has 1464 fields
+About to process Test Data line 451
+student = LIBERTY STAIGLE
+After parsing Riverside data
+Line 452 has 1464 fields
+About to process Test Data line 452
+student = NOAH TABLADILLO
+After parsing Riverside data
+Line 453 has 1464 fields
+About to process Test Data line 453
+student = CALEB TWAIT
+After parsing Riverside data
+Line 454 has 1464 fields
+About to process Test Data line 454
+student = ANN MA I WARD
+After parsing Riverside data
+Line 455 has 1464 fields
+About to process Test Data line 455
+student = AMBER ZAGARELLA
+After parsing Riverside data
+Line 456 has 1464 fields
+About to process Test Data line 456
+student = NATHAN BIZEAU
+After parsing Riverside data
+Line 457 has 1464 fields
+About to process Test Data line 457
+student = MATILDA BROOKS
+After parsing Riverside data
+Line 458 has 1464 fields
+About to process Test Data line 458
+student = DANIEL BROWN
+After parsing Riverside data
+Line 459 has 1464 fields
+About to process Test Data line 459
+student = SAGE EARNEST
+After parsing Riverside data
+Line 460 has 1464 fields
+About to process Test Data line 460
+student = ADAM ERICKSON
+After parsing Riverside data
+Line 461 has 1464 fields
+About to process Test Data line 461
+student = JACQUELY GALLAGHER
+After parsing Riverside data
+Line 462 has 1464 fields
+About to process Test Data line 462
+student = COLBY HANNULA
+After parsing Riverside data
+Line 463 has 1464 fields
+About to process Test Data line 463
+student = JESSICA HETRICK
+After parsing Riverside data
+Line 464 has 1464 fields
+About to process Test Data line 464
+student = JASMINE HICKS
+After parsing Riverside data
+Line 465 has 1464 fields
+About to process Test Data line 465
+student = CLAIRE IMBROCK
+After parsing Riverside data
+Line 466 has 1464 fields
+About to process Test Data line 466
+student = ETHAN KNOPP
+After parsing Riverside data
+Line 467 has 1464 fields
+About to process Test Data line 467
+student = BLESSING ROBERTS
+After parsing Riverside data
+Line 468 has 1464 fields
+About to process Test Data line 468
+student = GRACE RUST
+After parsing Riverside data
+Line 469 has 1464 fields
+About to process Test Data line 469
+student = HANNAH STARRATT
+After parsing Riverside data
+Line 470 has 1464 fields
+About to process Test Data line 470
+student = BAILEY VAHSHOLTZ
+After parsing Riverside data
+Line 471 has 1464 fields
+About to process Test Data line 471
+student = LANE VANDERSYS
+After parsing Riverside data
+About to write "OK" status

@@ -1,0 +1,45 @@
+
+.PDF
+	A publishing format
+	
+.RTF
+	Difficult to programatically create anything but simple pages
+	
+.odf
+	PYTHON:
+	http://appyframework.org/pod.html
+		
+.docx
+	A.K.A. WordprocessingML, WordML, Office Open XML, 
+	PYTHON:
+	http://github.com/mikemaccana/python-docx#readme	
+	http://openxmldeveloper.org/articles/Python.aspx	
+		
+.XLS Files
+	Generators exist
+	Poor page control
+	Not a publishing format
+	
+	Generators /libs for creating .XLS Excel files on Linux
+	============================================================================
+
+	WITH PYTHON:
+	
+	xlwt / xlrd:
+	http://www.python-excel.org/
+	
+	PyExcelerator:
+	http://sourceforge.net/projects/pyexcelerator/
+	http://www.answermysearches.com/generate-an-excel-formatted-file-right-in-python/122/
+	
+	
+	WITH PHP:
+	http://www.zedwood.com/article/133/generate-xls-spreadsheet-files-with-php
+	
+	
+	
+	
+	
+	
+	
+	
